@@ -1,0 +1,13 @@
+table  {
+    border:1px solid;
+    width: 800px;
+    height: 900px;
+    text-align: center;
+    
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+    padding: 15px;
+    font-size:18px 
+  }
